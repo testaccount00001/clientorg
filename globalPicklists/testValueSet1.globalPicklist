@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalPicklist xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>to test Flosum</description>
+    <globalPicklistValues>
+        <fullName>one</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>two</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>three</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <masterLabel>testValueSet1</masterLabel>
+    <sorted>false</sorted>
+</GlobalPicklist>
