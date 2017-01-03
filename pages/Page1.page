@@ -1,5 +1,5 @@
 <apex:page >
-<!--  version 6  -->
+<!--  version 7  -->
 <apex:form >
 <apex:outputLabel > label </apex:outputLabel>
 </apex:form>
