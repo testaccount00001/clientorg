@@ -1,2 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"><labels><fullName>TestCustomLabel</fullName><language>en_US</language><protected>false</protected><shortDescription>TestCustomLabel</shortDescription><value>12
-45</value></labels></CustomLabels>
+<?xml version="1.0" encoding="UTF-8"?><CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"><labels><fullName>Test_label</fullName><language>en_US</language><protected>false</protected><shortDescription>Test label</shortDescription><value>new value</value></labels></CustomLabels>
