@@ -1,3 +1,4 @@
 trigger TestGit on Contact (after insert) {
-//byzaak
+// byzaak
+// comment 2
 }
