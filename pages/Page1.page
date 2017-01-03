@@ -1,6 +1,6 @@
 <apex:page >
-<!--  version 2  -->
+<!--  version 7  -->
 <apex:form >
-<apex:outputLabel > label</apex:outputLabel>
+<apex:outputLabel > label </apex:outputLabel>
 </apex:form>
 </apex:page>
